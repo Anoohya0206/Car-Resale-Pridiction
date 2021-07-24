@@ -1,1 +1,1 @@
-# Car-Resale-Pridiction
+# Car-Resale-Prediction
